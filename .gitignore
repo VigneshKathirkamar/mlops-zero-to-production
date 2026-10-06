@@ -1,0 +1,10 @@
+# Per-mentee progress and session notes stay local
+mentees/
+
+# Grill questions are for the mentor only
+questions/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
